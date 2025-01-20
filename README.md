@@ -1,5 +1,5 @@
 ## Olá, meu nome é Patrícia! 👋
-## Seja bem-vindo ao meu perfil GitHub!
+<b>Seja bem-vindo ao meu perfil GitHub!</b>
 
 - 📚 Sou estudante de Tecnologia da Informação na instituição de ensino UNIVESP.
 - 🔎 Estou em transição de carreira e busco minha primeira oportunidade na área!
