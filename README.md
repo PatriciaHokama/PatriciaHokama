@@ -1,5 +1,13 @@
-## Hi there 👋
+## Olá, meu nome é Patrícia! 👋
+## Seja bem-vindo ao meu perfil GitHub!
 
+- 📚 Sou estudante de Tecnologia da Informação na instituição de ensino UNIVESP.
+- 🔎 Estou em transição de carreira e busco minha primeira oportunidade na área!
+- 💻 Tenho conhecimento em HTML, CSS e JavaScript.
+- 📘 Amo aprender e acredito que conhecimento não é algo finito, sempre podemos ir além!
+
+## Contato
+<a href="https://www.linkedin.com/in/patriciahokama/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <!--
 **PatriciaHokama/PatriciaHokama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
